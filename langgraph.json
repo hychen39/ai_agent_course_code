@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+      "agent": "notebooks/human-in-the-loop/inquiry-helper.py:agent"
+  },
+  "env": ".env"
+}
