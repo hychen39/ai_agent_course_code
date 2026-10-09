@@ -1,0 +1,5 @@
+{
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "notebook.output.scrolling": true,
+  "notebook.output.wordWrap": true
+}
