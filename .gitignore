@@ -6,7 +6,8 @@
 ._*
 
 # Custom folder icons
-Icon
+Icon
+
 
 # Volume root files
 .DocumentRevisions-V100
@@ -21,6 +22,7 @@ Icon
 # VSCode settings (keep shared configuration)
 .vscode/*
 !.vscode/settings.json
+!.vscode/mcp.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
